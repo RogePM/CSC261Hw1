@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CSC261Hw1", "CSC261Hw1.vcxproj", "{950AD942-C00C-4884-A2C7-4D93E63C69CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{950AD942-C00C-4884-A2C7-4D93E63C69CD}.Debug|x86.ActiveCfg = Debug|Win32
+		{950AD942-C00C-4884-A2C7-4D93E63C69CD}.Debug|x86.Build.0 = Debug|Win32
+		{950AD942-C00C-4884-A2C7-4D93E63C69CD}.Release|x86.ActiveCfg = Release|Win32
+		{950AD942-C00C-4884-A2C7-4D93E63C69CD}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7BC2A44D-6365-4F70-A13B-C28D594DD728}
+	EndGlobalSection
+EndGlobal
